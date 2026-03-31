@@ -15,7 +15,7 @@
     },
     {
       "name": "archive",
-      "rootUri": "file:///Users/arifsani/.pub-cache/hosted/pub.dev/archive-3.6.1",
+      "rootUri": "file:///Users/arifsani/.pub-cache/hosted/pub.dev/archive-4.0.9",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -272,6 +272,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "posix",
+      "rootUri": "file:///Users/arifsani/.pub-cache/hosted/pub.dev/posix-6.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "pub_semver",
       "rootUri": "file:///Users/arifsani/.pub-cache/hosted/pub.dev/pub_semver-2.2.0",
       "packageUri": "lib/",
@@ -413,10 +419,10 @@
       "name": "open_document",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     }
   ],
-  "generated": "2026-03-11T05:38:58.081426Z",
+  "generated": "2026-03-31T02:19:08.201816Z",
   "generator": "pub",
   "generatorVersion": "3.5.0",
   "flutterRoot": "file:///Users/arifsani/fvm/versions/3.24.0",
